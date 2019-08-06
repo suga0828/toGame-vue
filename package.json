@@ -1,0 +1,25 @@
+{
+  "name": "togame-vue",
+  "version": "1.0.0",
+  "description": "Simple TODO app created with Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suga0828/toGame-vue.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Alexander Sandoval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suga0828/toGame-vue/issues"
+  },
+  "homepage": "https://github.com/suga0828/toGame-vue#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
