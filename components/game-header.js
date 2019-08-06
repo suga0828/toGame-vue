@@ -1,3 +1,3 @@
-export GameHeader = Vue.component('game-header', {
+Vue.component('game-header', {
 	template: '<h1>Video Games</h1>'
 });
